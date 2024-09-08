@@ -5,8 +5,8 @@ The Retro PC module is from: https://www.printables.com/model/694802-retro-deskt
 Because the base file is not really for the RPI5, I have modified it.  
 
 The pi speaker is not listed in the market. I have to try a different solution.  
-My 3.5" screen is this one:  
-The glove of the Audio card is:  
+My 3.5" screen is this one:  https://osoyoo.com/2024/02/01/how-to-use-hdmi-3-5-with-rpi5/  
+The glove of the Audio card is:  https://wiki.keyestudio.com/Ks0314_keyestudio_ReSpeaker_2-Mic_Pi_HAT_V1.0  
 
 
 
