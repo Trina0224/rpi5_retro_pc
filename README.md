@@ -19,3 +19,6 @@ Step.4 Download the Audio driver and install it.
 Step.5 Put this line into the end of /boot/firmware/config.txt  
   dtoverlay=bw-ads7846,penirq=25,xmin=200,xmax=3900,ymin=200,ymax=3900,speed=50000  
 Step.6 
+
+
+also works with: https://www.printables.com/model/718410-retro-tv-raspberry-pi-case-v2  
